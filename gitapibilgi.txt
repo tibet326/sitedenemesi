@@ -1,0 +1,47 @@
+API nedir ve ne amaçla kullanılır
+free API
+POSTMAN
+
+Git nedir? Git, yazılım projelerindeki değişiklikleri zaman içinde takip etmeyi sağlayan bir versiyon kontrol sistemidir. Kodlarınızda yaptığınız güncellemeleri kaydeder, istediğiniz an eski bir sürüme geri dönmenize yardımcı olur.
+
+
+
+2.GitHub ile Neler Yapabiliriz?
+GitHub, Git altyapısını kullanan bulut tabanlı bir depolama platformudur.
+
+Kod Depolama ve Yedekleme: Projelerinizi internet üzerinde güvenle saklayabilirsiniz.
+
+Takım Çalışması: Dünya genelindeki yazılımcılarla aynı proje üzerinde eş zamanlı çalışabilirsiniz.
+
+Açık Kaynak Projelere Katkı: Başkalarının paylaştığı binlerce projeyi indirebilir hatta geliştirerek sunabilirsiniz.
+
+Portfolio Oluşturma: Yaptığınız projeleri diğer insanlara sergileyebilirsiniz.
+
+Hata Takibi: Projenizdeki eksikleri veya hataları organize edebilirsiniz.
+
+
+
+Dektop uygulaması nedir? Desktop/Masaüstü uygulaması, bir web tarayıcısına veya internet bağlantısına ihtiyaç duymadan doğrudan işletim sisteminize kurulup çalışan yazılımlardır.
+
+Bilgisayara Kurulur: Çalışmak için Chrome, Edge gibi bir web tarayıcısına ihtiyaç duymaz, masaüstünüzdeki simgesine çift tıklayarak açarsınız.
+
+Cihaz Donanımını Doğrudan Kullanır: Bilgisayarınızın işlemci, ekran kartı ve dosya sistemine doğrudan erişebildiği için genellikle web uygulamalarına göre daha hızlı ve performanslı çalışır.
+
+Çevrim Dışı Çalışabilir: Çoğu masaüstü uygulaması internet bağlantınız olmasa bile işlevlerini yerine getirmeye devam eder.
+
+Mobil uygulama nedir?
+Mobil Uygulama
+Akıllı telefonunuza veya tabletinize App Store veya Google Play üzerinden indirip kurduğunuz programlardır. Telefonun kamerasını, GPS'ini veya parmak izi okuyucusunu doğrudan kullanabilirler. Ekranınıza anlık bildirimler gönderebilir ve birçoğu internetiniz olmasa bile çalışmaya devam edebilir.
+
+
+4.Web Uygulaması
+Cihazınıza hiçbir şey indirmeden, sadece internet tarayıcınızı açıp bir web sitesine girerek kullandığınız programlardır. Örneğin internet bankacılığı siteleri veya Canva gibi araçlar buna örnektir. Tek tıkla açılır ve her cihazda çalışır ama genellikle internet bağlantısı gerektirir...
+
+Hangisine Ne Zaman İhtiyaç Duyulur?
+İnsanların uygulamanızı indirme zahmetine girmeden, herhangi bir cihazdan hızla kullanmasını istiyorsanız bir web uygulaması yaparsınız.
+
+API nedir ve ne amaçla kullanılır? API, farklı yazılımların birbiriyle veri alışverişi yapmasını sağlayan dijital bir köprüdür. Uygulamalara hazır servisleri (harita, ödeme vb.) ekleyerek yazılım geliştirme sürecini hızlandırmak gibi amaçlarda işe yarar.
+
+Free API, geliştiricilerin ve öğrencilerin bir ücret ödemeden projelerine veri çekebildiği ve test yapabildiği halka açık servislerdir. Döviz kurları, hava durumu gibi hazır verilerle hızlıca prototip veya öğrenme projeleri geliştirmek için tercih edilir.
+
+Postman, API'lerin doğru çalışıp çalışmadığını kod yazmaya gerek kalmadan test etmeyi sağlayan bir yazılım aracıdır. Tasarlanan veya kullanılan bir API'ye istek gönderip gelen yanıtı inceleyerek olası hataları önceden tespit etmeye yarar.
