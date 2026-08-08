@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Basit Web Sitem</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 5px;
+            cursor: pointer;
+        }
+        #mesaj {
+            margin-top: 20px;
+            font-size: 20px;
+            font-weight: bold;
+            color: #2b580c;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Hoş Geldiniz</h1>
+    <p>Aşağıdan bilgi alınabilir:</p>
+
+    <!-- Butonlar -->
+    <button onclick="yaziYaz('deneme 1.')">1. Buton</button>
+    <button onclick="yaziYaz('deneme 2')">2. Buton</button>
+    <button onclick="temizle()">Temizle</button>
+
+    <!-- Yazının çıkacağı alan -->
+    <div id="mesaj"></div>
+
+    <script>
+        function yaziYaz(metin) {
+            document.getElementById('mesaj').innerText = metin;
+        }
+
+        function temizle() {
+            document.getElementById('mesaj').innerText = '';
+        }
+    </script>
+
+</body>
+</html>
